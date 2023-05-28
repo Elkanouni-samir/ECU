@@ -43,7 +43,7 @@ This software is licensed under the terms that can be found in the `LICENSE` fil
 ## Disclaimer
 The code provided in this project is for demonstration purposes and may need modifications or improvements for production use. Use it at your own risk.
 
-## Author
+## Authors
 
 This project was developed by:
 - [Elkanouni Samir]
